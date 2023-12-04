@@ -15,14 +15,16 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            Hello, I'm Mikias Berhane, a dedicated student at CU Boulder 
+                with a passion for exploring the vast world of computer science. 
+                Currently majoring in computer science, I am on a journey to absorb knowledge, 
+                push boundaries, and continuously expand my horizons.
+                As an enthusiast for programming languages,
+                I am currently immersing myself in the intricacies of C++. 
+                Eager to embrace challenges and learn from every experience, 
+                I am excited about the opportunities that lie ahead in my academic and professional pursuits. 
+                Let's code the future together!
+
           </p>
 
           <a className='button' href='/'>
